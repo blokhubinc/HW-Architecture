@@ -11,7 +11,7 @@ Insert the below flags into last line of 1start bat
 
 ***********************
 EthDcrMiner64.exe -epool eth-us-west1.nanopool.org:9999 -ewal [wallet address].worker -epsw x -mode 1 -ftime 10 
-cvddc 830 -mvddc 830 -r 1 minspeed 170
+cvddc 830 -mvddc 830 -r 1 -minspeed 170
 **********************
 
 Create a reboot.bat file with below line, save it in miner folder
